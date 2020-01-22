@@ -2,7 +2,7 @@
 
 
 
-## The Power of Data Visualization 
+# The Power of Data Visualization 
 
 * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
 * [Gapminder](https://www.gapminder.org/)
@@ -89,4 +89,6 @@
      
 * Tableau SWOT analysis : [CLICK HERE](https://prezi.com/8p5tcxkfryb1/tableau-software-swot-analysis/)
 * Tableau GUI (Graphical User Interface) : Demo Tableau GUI
+
+
 
