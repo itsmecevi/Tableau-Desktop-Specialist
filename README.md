@@ -73,18 +73,7 @@
 
 ![biprocess](https://user-images.githubusercontent.com/27078712/72890846-6a14b080-3d45-11ea-9b54-aafa268acd14.jpg)
 
-* BI History :
-
-![bihistory](https://user-images.githubusercontent.com/27078712/72891046-e9a27f80-3d45-11ea-84b2-cdd6a52b3704.PNG)
-
-
-
-* Self Service Business Intelligence :
-
-![keypointssbi](https://user-images.githubusercontent.com/27078712/72891132-1ce50e80-3d46-11ea-9e50-7797d7801e0c.PNG)
-
-
-![topreasonssbi](https://user-images.githubusercontent.com/27078712/72891183-43a34500-3d46-11ea-9077-dfbdbd3ca2e4.PNG)
+* Hands on [Tableau] Business Intelligence : [CLICK HERE](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
 
 
 
