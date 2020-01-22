@@ -66,8 +66,7 @@
 
 ## Business Intelligence 101 
 
-* Business Intelligence <-> Visualization ? TRUE or FALSE
-* Business Intelligence scope ?
+* Business Intelligence <-> Visualization ? TRUE or FALS
 * Business Intelligence Vs. Analytics ?
 * BI Process :
 
@@ -78,3 +77,16 @@
 
 
 ## Introduction to Tableau
+
+* Tableau products :
+
+     * Tableau Prep.
+     * Tableau Desktop
+     * Tableau Public
+     * Tableau Online
+     * Tableau Server
+     * Tableau Reader
+     
+* Tableau SWOT analysis : [CLICK HERE](https://prezi.com/8p5tcxkfryb1/tableau-software-swot-analysis/)
+* Tableau GUI (Graphical User Interface) : Demo Tableau GUI
+
