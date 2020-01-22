@@ -32,5 +32,38 @@
 
 ![WDVM](https://user-images.githubusercontent.com/27078712/72880236-11d3b380-3d31-11ea-82a2-7be5c6087ea2.PNG)
 
+* Data Visualization Goals : 
+
+     * Data Exploration — find the unknown
+     * Data Analysis — check hypotheses
+     * Presentation — communicate and disseminate
+ 
+ * The Five-Step Model :
+ 
+     * Target
+     * Data Wrangling
+     * Design
+     * Implement
+     * Evaluate
+  
+![5stepdesign](https://user-images.githubusercontent.com/27078712/72888440-266b7800-3d40-11ea-8668-db66477a76fb.png)
+
+     
+ * Issues :
+ 
+     * Domain situation 
+     * Data/task abstraction 
+     * Visual encoding/interaction
+     * Algorithm
+     
+ * SOLUTION for the ISSUES :
+ 
+     * Observational Studies (“Think Aloud”)
+     * Expert Interviews (aka Design Critiques)
+     * Focus Groups
+     
+ * Rules of Thumb : **Edward Tufte Rules**
+
+## Business Intelligence 101 
 
 ## Introduction to Tableau
