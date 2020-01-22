@@ -99,6 +99,11 @@
      * When your database is too slow for interactive analytics
      * When you need to take load off a transactional database (size of the data)
      * When you need to be offline (without internet connections)
-* Connecting to Excel file : [Data: Global Superstore]()
+* Connecting to Excel file : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
+* Connecting to CSV file : [Data: Insurance Portfolio ](https://support.spatialkey.com/spatialkey-sample-csv-data/)
+* Connecting to Google Sheets : [Data Google Sheets](https://docs.google.com/spreadsheets/d/1wtyaUAeN2ztSfAo8SK0FtZ0n85K0YBPo_ZcH6Hy54Nw/edit#gid=0)
+* Connecting to PDFs : [Data: Amazon Stock Prices](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
+* Data Preparation – The Data Interpreter : 
+
 
 
