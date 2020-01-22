@@ -2,7 +2,7 @@
 
 
 
-# The Power of Data Visualization 
+## The Power of Data Visualization 
 
 * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
 * [Gapminder](https://www.gapminder.org/)
@@ -90,5 +90,15 @@
 * Tableau SWOT analysis : [CLICK HERE](https://prezi.com/8p5tcxkfryb1/tableau-software-swot-analysis/)
 * Tableau GUI (Graphical User Interface) : Demo Tableau GUI
 
+## Connecting to data
+
+* Live connection :
+     * When you have a fast database
+     * When you need up-to-the minute data (real-time)
+* Extract connection (in memory) :
+     * When your database is too slow for interactive analytics
+     * When you need to take load off a transactional database (size of the data)
+     * When you need to be offline (without internet connections)
+* Connecting to Excel file : [Data: Global Superstore]()
 
 
