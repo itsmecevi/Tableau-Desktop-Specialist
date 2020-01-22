@@ -13,13 +13,13 @@
 * By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 * The 10 best data visualization blogs and news to follow
 
-    * 1-[Storytelling with Data](http://www.storytellingwithdata.com/)
-    * 2-[Information is Beautiful](https://informationisbeautiful.net/)
-    * 3-[Flowing Data](https://flowingdata.com/)
-    * 4-[Visualising Data](https://www.visualisingdata.com/)
-    * 5-[Junk Charts](https://junkcharts.typepad.com/junk_charts/)
-    * 6-[The Pudding](https://pudding.cool/)
-    * 7-[The Atlas](https://theatlas.com/)
+    * 1 -[Storytelling with Data](http://www.storytellingwithdata.com/)
+    * 2 -[Information is Beautiful](https://informationisbeautiful.net/)
+    * 3 -[Flowing Data](https://flowingdata.com/)
+    * 4 -[Visualising Data](https://www.visualisingdata.com/)
+    * 5 -[Junk Charts](https://junkcharts.typepad.com/junk_charts/)
+    * 6 -[The Pudding](https://pudding.cool/)
+    * 7 -[The Atlas](https://theatlas.com/)
 
 
 ### Why data visualization matters?
