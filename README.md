@@ -78,6 +78,8 @@
 
 ## Introduction to Tableau
 
+* Tableau vs Excel : Googling!
+
 * Tableau products :
 
      * Tableau Prep.
@@ -89,6 +91,14 @@
      
 * Tableau SWOT analysis : [CLICK HERE](https://prezi.com/8p5tcxkfryb1/tableau-software-swot-analysis/)
 * Tableau GUI (Graphical User Interface) : Demo Tableau GUI
+* Tableau data types : 6 different data types
+     * Number
+     * String
+     * Date
+     * Geographics
+     * Boolean (TRUE FALSE)
+     * Data & Time
+
 
 ## Connecting to data
 
@@ -103,6 +113,7 @@
 * Connecting to CSV file : [Data: Insurance Portfolio ](https://support.spatialkey.com/spatialkey-sample-csv-data/)
 * Connecting to Google Sheets : [Data Google Sheets](https://docs.google.com/spreadsheets/d/1wtyaUAeN2ztSfAo8SK0FtZ0n85K0YBPo_ZcH6Hy54Nw/edit#gid=0)
 * Connecting to PDFs : [Data: Amazon Stock Prices](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
+* **50+ different data sources**
 
 
 ## Preparing data
@@ -143,15 +154,29 @@
      * Bar chart
      * Line chart
      * Scatterplot
+     * Word Maps
+     * Line Charts
+     * Buble Charts
+     * Tree Maps
+     * Funnel Charts
+     * Waterfall Charts
      * A map using geographic data (Longitude and Latitude)
      * Combined axis chart
      * Dual axis chart
      * Stacked bar chart
      * A chart to show specific values (crosstab, highlight table)
+     * **Tableau Supports 24 Different Charts**
  
  
  * Apply filters : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
  
+     * Ways To Filter : 
+     
+          * Filter Shelf
+          * Interactive Filter by show filters
+          * Headers with keep only option
+          * Legends
+          
      * Add a filter to the view
      * Add a context filter
      * Add a date filter
