@@ -175,6 +175,7 @@
  * Create basic charts : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
  
      * Bar chart
+     * Pie chart
      * Line chart
      * Scatterplot
      * Word Maps
@@ -221,9 +222,9 @@
        simple arithmetic)
      * Add a parameter
 
- ## Analyzing dataReferences
+ 
   
- ## References 
+ # References 
   
   * [Dimensions and Measures, Blue and Green](https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm)
 
