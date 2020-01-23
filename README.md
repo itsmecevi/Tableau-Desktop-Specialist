@@ -2,12 +2,12 @@
 
 
 
-## The Power of Data Visualization 
+## The Power of data visualization 
 
 * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
 * [Gapminder](https://www.gapminder.org/)
 
-### What is Data Visualization?
+### What is data visualization?
 
 * Data visualization is the graphical representation of information and data.
 * By using visual elements like charts, graphs, and maps, data **visualization tools** provide an accessible way to see and understand trends, outliers, and patterns in data.
@@ -103,7 +103,22 @@
 * Connecting to CSV file : [Data: Insurance Portfolio ](https://support.spatialkey.com/spatialkey-sample-csv-data/)
 * Connecting to Google Sheets : [Data Google Sheets](https://docs.google.com/spreadsheets/d/1wtyaUAeN2ztSfAo8SK0FtZ0n85K0YBPo_ZcH6Hy54Nw/edit#gid=0)
 * Connecting to PDFs : [Data: Amazon Stock Prices](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
-* Data Preparation – The Data Interpreter : 
+
+
+## Preparing data
+
+* Data connections :
+
+     * Left Join
+     * Right Join
+     * Inner Join
+     * Full Outer Join
+     * Union (vertical connection)
+     * Blend (horizontal connection)
+
+* The Data Interpreter : 
+* Pivoting your Data : [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
+* Splitting your Data: [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
 
 
 
