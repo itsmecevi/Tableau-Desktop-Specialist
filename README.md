@@ -220,10 +220,7 @@
      * Create a calculated field (e.g. string, date,
        simple arithmetic)
      * Add a parameter
-     
-     
-     
-     
+
  ## Analyzing dataReferences
   
  ## References 
