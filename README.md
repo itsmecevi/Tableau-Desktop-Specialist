@@ -119,12 +119,40 @@
 * The Data Interpreter : [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
 * Pivoting your Data : [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
 * Splitting your Data: [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
-* Manage data properties :
+* Manage data properties : [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
 
-     * Rename a data field: [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
-     * Assign an alias to a data value : [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
-     * Assign a geographic role to a data field :  [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
-     * Change data type for a data field (number, date, string, boolean, etc.) :  [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
+     * Rename a data field: 
+     * Assign an alias to a data value 
+     * Assign a geographic role to a data field   
+     * Change data type for a data field (number, date, string, boolean, etc.) 
      
-
+ 
+ ## Exploring data
+ 
+     
+ * Organize data : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
+ 
+     * Create a visual group
+     * Create a group using labels
+     * Create a set
+     * Organize dimensions into a hierarchy
+     
+ 
+ * Create basic charts : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
+ 
+     * Bar chart
+     * Line chart
+     * Scatterplot
+     * A map using geographic data (Longitude and Latitude)
+     * Combined axis chart
+     * Dual axis chart
+     * Stacked bar chart
+     * A chart to show specific values (crosstab, highlight table)
+ 
+ 
+ * Apply filters : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
+ 
+     * Add a filter to the view
+     * Add a context filter
+     * Add a date filter
 
