@@ -147,8 +147,16 @@
      * Create a group using labels
      * Create a set
      * Organize dimensions into a hierarchy
-     
  
+ * Worksheet Interface (GUI)
+ 
+ * Managing Metadata :
+ 
+     * How to Hide Unhide fields
+     * How to Rename fields
+     * How to create and delete different hierarchies
+     * How to create and remove different folders
+     
  * Create basic charts : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
  
      * Bar chart
@@ -168,8 +176,14 @@
      * **Tableau Supports 24 Different Charts**
  
  
+ ## Analyzing data
+ 
  * Apply filters : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
  
+     * Filters Shelf
+     * Date Filters
+     * Interactive Filters
+     * Adv Interactive Filters
      * Ways To Filter : 
      
           * Filter Shelf
@@ -180,4 +194,15 @@
      * Add a filter to the view
      * Add a context filter
      * Add a date filter
+     * Format Filters
+     
+  * Apply analytics to a worksheet :
+  
+     * Add a manual or a computed sort
+     * Add a reference line or trend line
+     * Use a table calculation
+     * Use bins and histograms
+     * Create a calculated field (e.g. string, date,
+       simple arithmetic)
+     * Add a parameter
 
