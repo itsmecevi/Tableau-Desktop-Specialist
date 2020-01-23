@@ -159,7 +159,10 @@
      * Create a set
      * Organize dimensions into a hierarchy
  
- * Worksheet Interface (GUI)
+ * Worksheet Interface (GUI) :
+ 
+ ![gui](https://user-images.githubusercontent.com/27078712/72997332-cb647e80-3e2e-11ea-9f9d-cbc238470c7c.png)
+
  
  
  * Managing Metadata :
@@ -220,5 +223,5 @@
      
   
   
-  
+  ## References 
 
