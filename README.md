@@ -91,13 +91,7 @@
      
 * Tableau SWOT analysis : [CLICK HERE](https://prezi.com/8p5tcxkfryb1/tableau-software-swot-analysis/)
 * Tableau GUI (Graphical User Interface) : Demo Tableau GUI
-* Tableau data types : 6 different data types
-     * Number
-     * String
-     * Date
-     * Geographics
-     * Boolean (TRUE FALSE)
-     * Data & Time
+
 
 
 ## Connecting to data
@@ -126,6 +120,14 @@
      * Full Outer Join
      * Union (vertical connection)
      * Blend (horizontal connection)
+     
+* Tableau data types : 6 different data types
+     * Number
+     * String
+     * Date
+     * Geographics
+     * Boolean (TRUE FALSE)
+     * Data & Time
 
 * The Data Interpreter : [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
 * Pivoting your Data : [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
@@ -137,6 +139,15 @@
      * Assign a geographic role to a data field   
      * Change data type for a data field (number, date, string, boolean, etc.) 
      
+ ## Understanding Tableau Concepts 
+ 
+ * Dimensions and measures
+ * Discrete and continuous fields : 
+ 
+     * Blue color: discret, qualitative data (string, geographics, date, date & time, boolean). If added qualitative data, then they are        separate the graphs.
+     * Green color: continuous, quantitative data, number, aggregation (sum, avg, etc).-> If added quantitative data, then they aren’t          separate the graphs.
+  * Aggregation
+  
  
  ## Exploring data
  
@@ -149,6 +160,7 @@
      * Organize dimensions into a hierarchy
  
  * Worksheet Interface (GUI)
+ 
  
  * Managing Metadata :
  
@@ -205,4 +217,8 @@
      * Create a calculated field (e.g. string, date,
        simple arithmetic)
      * Add a parameter
+     
+  
+  
+  
 
