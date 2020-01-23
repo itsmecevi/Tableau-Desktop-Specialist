@@ -116,9 +116,15 @@
      * Union (vertical connection)
      * Blend (horizontal connection)
 
-* The Data Interpreter : 
+* The Data Interpreter : [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
 * Pivoting your Data : [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
 * Splitting your Data: [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
+* Manage data properties :
 
+     * Rename a data field: [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
+     * Assign an alias to a data value : [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
+     * Assign a geographic role to a data field :  [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
+     * Change data type for a data field (number, date, string, boolean, etc.) :  [Data: CO2 emissions ](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC)
+     
 
 
