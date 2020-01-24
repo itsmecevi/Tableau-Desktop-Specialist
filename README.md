@@ -193,7 +193,7 @@
      * **Tableau Supports 24 Different Charts**
  
  
- ## Analyzing data
+## Analyzing data
  
  * Apply filters : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
  
