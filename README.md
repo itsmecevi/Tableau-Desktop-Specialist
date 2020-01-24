@@ -234,8 +234,15 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 
 
-## References 
+ 
+## Extras 
 
+### Change log update:
+
+* 23.01.2020
+* 24.01.2020
+
+### References
 * [Tableau](tableau.com)
 * [Guru99: Tableau](https://www.guru99.com/)
 * [Tutorialspoint: Tableau](https://www.tutorialspoint.com/index.htm)
