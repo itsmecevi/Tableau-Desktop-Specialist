@@ -94,6 +94,7 @@
 
 
 
+
 ## Connecting to data
 
 * Live connection :
@@ -108,6 +109,7 @@
 * Connecting to Google Sheets : [Data Google Sheets](https://docs.google.com/spreadsheets/d/1wtyaUAeN2ztSfAo8SK0FtZ0n85K0YBPo_ZcH6Hy54Nw/edit#gid=0)
 * Connecting to PDFs : [Data: Amazon Stock Prices](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
 * **50+ different data sources**
+
 
 
 ## Preparing data
@@ -140,7 +142,7 @@
      * Change data type for a data field (number, date, string, boolean, etc.) 
      
      
- ## Understanding Tableau Concepts 
+## Understanding Tableau Concepts 
  
  * Dimensions and measures
  * Discrete and continuous fields : 
@@ -148,9 +150,11 @@
      * Blue color: discret, qualitative data (string, geographics, date, date & time, boolean). If added qualitative data, then they are        separate the graphs.
      * Green color: continuous, quantitative data, number, aggregation (sum, avg, etc).-> If added quantitative data, then they aren’t          separate the graphs.
   * Aggregation
-  
- 
- ## Exploring data
+   
+
+
+
+## Exploring data
  
      
  * Organize data : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
@@ -223,9 +227,10 @@
        simple arithmetic)
      * Add a parameter
 
- 
-  
- # References 
+
+
+
+# References 
   
   * [Dimensions and Measures, Blue and Green](https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm)
 
