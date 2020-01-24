@@ -48,6 +48,8 @@
   
 ![5stepdesign](https://user-images.githubusercontent.com/27078712/72888440-266b7800-3d40-11ea-8668-db66477a76fb.png)
 
+Picture link: https://towardsdatascience.com/the-power-of-visualization-in-data-science-1995d56e4208
+
      
  * Issues :
  
@@ -71,6 +73,7 @@
 * BI Process :
 
 ![biprocess](https://user-images.githubusercontent.com/27078712/72890846-6a14b080-3d45-11ea-9b54-aafa268acd14.jpg)
+
 Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 * Hands on [~~Tableau~~] Business Intelligence : [CLICK HERE](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
