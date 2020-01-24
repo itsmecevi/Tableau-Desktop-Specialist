@@ -246,14 +246,14 @@
 * [Tableau Public Resources](https://public.tableau.com/en-us/s/resources)
 * [OnLine Analytical Processing](https://olap.com/)
 * [Datawarehouse for You](https://www.datawarehouse4u.info/)
-* [Youtube Tableau Videos](youtube.com)
-    * [](https://www.youtube.com/watch?v=o4IfTBmytoM&list=PLhBXOOes909iARrf25qtnhP-rABkOIth2)
-    * https://www.youtube.com/watch?v=1BLywLrQUcE&list=PLyD1XCIRA3gQmN73dHwQWr4R08ABZFMtZ
-    * https://www.youtube.com/watch?v=jJGNZ-6-vYo&list=PL7CWBDRZZ_QdwowDfUJ1pD6t8ImWOjOmI
-    * https://www.youtube.com/watch?v=38odqwYxaHg&list=PL_H8SEcfTAXk_z4ko5FlbDySV-h4gdHrA
-    * https://www.youtube.com/watch?v=myds2eJ9bUU&list=PL_qx68DwhYA_YyQc2qleHp6nl4K5PB-Pb
-    * https://www.youtube.com/watch?v=QYnkudCxbmE&list=PL6_D9USWkG1DkvclGfsFnJno5b_rDvArK
-    * https://www.youtube.com/watch?v=fO7g0pnWaRA&list=PLEiEAq2VkUUJEvrsey26P-Bj4Vk6BLBVC
+* [Youtube Tableau Videos]()
+    * [youtube.com](https://www.youtube.com/watch?v=o4IfTBmytoM&list=PLhBXOOes909iARrf25qtnhP-rABkOIth2)
+    * [youtube.com](https://www.youtube.com/watch?v=1BLywLrQUcE&list=PLyD1XCIRA3gQmN73dHwQWr4R08ABZFMtZ)
+    * [youtube.com](https://www.youtube.com/watch?v=jJGNZ-6-vYo&list=PL7CWBDRZZ_QdwowDfUJ1pD6t8ImWOjOmI)
+    * [youtube.com](https://www.youtube.com/watch?v=38odqwYxaHg&list=PL_H8SEcfTAXk_z4ko5FlbDySV-h4gdHrA)
+    * [youtube.com](https://www.youtube.com/watch?v=myds2eJ9bUU&list=PL_qx68DwhYA_YyQc2qleHp6nl4K5PB-Pb)
+    * [youtube.com](https://www.youtube.com/watch?v=QYnkudCxbmE&list=PL6_D9USWkG1DkvclGfsFnJno5b_rDvArK)
+    * [youtube.com](https://www.youtube.com/watch?v=fO7g0pnWaRA&list=PLEiEAq2VkUUJEvrsey26P-Bj4Vk6BLBVC)
     * https://www.youtube.com/watch?v=gWZtNdMko1k&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK
     * https://www.youtube.com/watch?v=jj6-0cvcNEA&list=PL9ooVrP1hQOH7ni13w776zP_X9ny3Eksv
     * https://www.youtube.com/watch?v=aHaOIvR00So
