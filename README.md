@@ -231,6 +231,38 @@
 
 
 ## References 
-  
-  * [Dimensions and Measures, Blue and Green](https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm)
 
+* [Guru99: Tableau](https://www.guru99.com/)
+* [Tutorialspoint: Tableau](https://www.tutorialspoint.com/index.htm)
+* [Tableau Learning Path: AnalyticsVidhya](https://www.analyticsvidhya.com/myfeed/?utm-source=blog&utm-medium=top-icon%2F)
+* [Jumpstart Tableau](https://www.amazon.com/Jumpstart-Tableau-Step-Step-Visualization/dp/1484219333)
+* [Pro Tableau](https://www.amazon.com/Pro-Tableau-Step-Step-Guide/dp/1484223519/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Pro+tableau&qid=1570446674&s=books&sr=1-1)
+* [Rapid Graphs with Tableau](https://www.ebay.com/itm/Rapid-Graphs-with-Tableau-8-The-Original-Guide-for-the-Accidental-An-/273689089070)
+* [Tableau Cookbook](https://www.amazon.com/Tableau-10-Business-Intelligence-Cookbook/dp/1786465639/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=tableau+cookbook&qid=1570460189&s=books&sr=1-2)
+* [Tableau Your Data!](https://www.amazon.com/Tableau-Your-Data-Analysis-Software/dp/1118612043)
+* [Tableau Dashboard Cookbook](https://www.amazon.com/Tableau-Dashboard-Cookbook-Jen-Stirrup/dp/1782177906)
+* [Tableau Visual Guidebook](https://www.tableau.com/visual-guidebook-flowingdata)
+* [Tableau Whitepapers](https://www.tableau.com/learn/whitepapers)
+* [Tableau Public Resources](https://public.tableau.com/en-us/s/resources)
+* [OnLine Analytical Processing](https://olap.com/)
+* [Datawarehouse for You](https://www.datawarehouse4u.info/)
+* [Youtube Tableau Videos](youtube.com)
+    * https://www.youtube.com/watch?v=o4IfTBmytoM&list=PLhBXOOes909iARrf25qtnhP-rABkOIth2
+    * https://www.youtube.com/watch?v=1BLywLrQUcE&list=PLyD1XCIRA3gQmN73dHwQWr4R08ABZFMtZ
+    * https://www.youtube.com/watch?v=jJGNZ-6-vYo&list=PL7CWBDRZZ_QdwowDfUJ1pD6t8ImWOjOmI
+    * https://www.youtube.com/watch?v=38odqwYxaHg&list=PL_H8SEcfTAXk_z4ko5FlbDySV-h4gdHrA
+    * https://www.youtube.com/watch?v=myds2eJ9bUU&list=PL_qx68DwhYA_YyQc2qleHp6nl4K5PB-Pb
+    * https://www.youtube.com/watch?v=QYnkudCxbmE&list=PL6_D9USWkG1DkvclGfsFnJno5b_rDvArK
+    * https://www.youtube.com/watch?v=fO7g0pnWaRA&list=PLEiEAq2VkUUJEvrsey26P-Bj4Vk6BLBVC
+    * https://www.youtube.com/watch?v=gWZtNdMko1k&list=PLWPirh4EWFpGXTBu8ldLZGJCUeTMBpJFK
+    * https://www.youtube.com/watch?v=jj6-0cvcNEA&list=PL9ooVrP1hQOH7ni13w776zP_X9ny3Eksv
+    * https://www.youtube.com/watch?v=aHaOIvR00So
+    * https://www.youtube.com/watch?v=TPMlZxRRaBQ
+    * https://www.youtube.com/watch?v=zNPEsi8MjdI
+    * https://www.youtube.com/playlist?list=PLVHgQku8Z934KPX-NXwWQzxf8eCr5vscI
+    * https://www.youtube.com/playlist?list=PL_qx68DwhYA_YyQc2qleHp6nl4K5PB-Pb
+* [Pinterest](https://www.pinterest.com/pin/96897829462585916/)
+* [Roosboard](https://roosboard.com/blog/what-diffrence-between-self-and-traditional-BI.html)
+* [EduCBA](https://www.educba.com/excel-vs-tableau/)
+  * [Dimensions and Measures, Blue and Green](https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm)
+  
