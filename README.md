@@ -247,7 +247,7 @@
 * [OnLine Analytical Processing](https://olap.com/)
 * [Datawarehouse for You](https://www.datawarehouse4u.info/)
 * [Youtube Tableau Videos](youtube.com)
-    * https://www.youtube.com/watch?v=o4IfTBmytoM&list=PLhBXOOes909iARrf25qtnhP-rABkOIth2
+    * [](https://www.youtube.com/watch?v=o4IfTBmytoM&list=PLhBXOOes909iARrf25qtnhP-rABkOIth2)
     * https://www.youtube.com/watch?v=1BLywLrQUcE&list=PLyD1XCIRA3gQmN73dHwQWr4R08ABZFMtZ
     * https://www.youtube.com/watch?v=jJGNZ-6-vYo&list=PL7CWBDRZZ_QdwowDfUJ1pD6t8ImWOjOmI
     * https://www.youtube.com/watch?v=38odqwYxaHg&list=PL_H8SEcfTAXk_z4ko5FlbDySV-h4gdHrA
@@ -264,5 +264,5 @@
 * [Pinterest](https://www.pinterest.com/pin/96897829462585916/)
 * [Roosboard](https://roosboard.com/blog/what-diffrence-between-self-and-traditional-BI.html)
 * [EduCBA](https://www.educba.com/excel-vs-tableau/)
-  * [Dimensions and Measures, Blue and Green](https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm)
+* [Dimensions and Measures, Blue and Green](https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm)
   
