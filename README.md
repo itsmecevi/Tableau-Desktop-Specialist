@@ -237,7 +237,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
  
 ## Extras 
 
-### Change log update:
+### Change log update
 
 * 23.01.2020
 * 24.01.2020
