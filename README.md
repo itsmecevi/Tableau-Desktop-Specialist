@@ -236,6 +236,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 ## References 
 
+* [Tableau](tableau.com)
 * [Guru99: Tableau](https://www.guru99.com/)
 * [Tutorialspoint: Tableau](https://www.tutorialspoint.com/index.htm)
 * [Tableau Learning Path: AnalyticsVidhya](https://www.analyticsvidhya.com/myfeed/?utm-source=blog&utm-medium=top-icon%2F)
@@ -257,7 +258,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 * [Open Data Soft](https://www.opendatasoft.com/)
 * [Datapine](https://www.datapine.com)
 * [Evolytics](https://www.evolytics.com)
-* [Grazitti]()https://www.grazitti.com
+* [Grazitti](https://www.grazitti.com)
 * [Tableau Community](https://community.tableau.com/welcome)
 * [Slideshare](https://www.slideshare.net)
 * [Izenda](izenda.com)
@@ -269,5 +270,6 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 * [Digite](https://www.digite.com/blog/waterfall-to-agile-with-kanban/)
 * [Kdnuggets](https://www.kdnuggets.com/2017/01/four-problems-crisp-dm-fix.html)
 * [Researchgate](https://www.researchgate.net/figure/General-architecture-of-the-business-intelligence-process-adapted-from-34_fig1_335781756)
+* [Tableau-Wiki-Cevi](https://trello.com/b/IR0xqNMM/tableau-wiki-cevi)
 
   
