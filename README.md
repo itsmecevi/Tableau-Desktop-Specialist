@@ -171,6 +171,8 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
  * Worksheet Interface (GUI) :
  
  ![gui](https://user-images.githubusercontent.com/27078712/72997332-cb647e80-3e2e-11ea-9f9d-cbc238470c7c.png)
+ 
+ Picture link: https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_lod_overview.htm
 
  
  
