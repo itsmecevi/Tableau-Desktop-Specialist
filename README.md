@@ -68,8 +68,16 @@ Picture link: https://towardsdatascience.com/the-power-of-visualization-in-data-
 
 ## Business Intelligence 101 
 
-* Business Intelligence <-> Visualization ? TRUE or FALS
+* What is Business Intelligence ? 
 * Business Intelligence Vs. Analytics ?
+* Business Intelligence Vs. Big Data ?
+* Business Intelligence Vs. Data Science ?
+* Business Intelligence Vs. Data Engineering ?
+* Business Intelligence <-> Visualization ? TRUE or FALSE
+* Business Intelligence == Visualization ? TRUE or FALSE
+* Business Intelligence -> Visualization ? TRUE or FALSE
+* Business Intelligence <- Visualization ? TRUE or FALSE
+
 * BI Process :
 
 ![biprocess](https://user-images.githubusercontent.com/27078712/72890846-6a14b080-3d45-11ea-9b54-aafa268acd14.jpg)
