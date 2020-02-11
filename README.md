@@ -2,12 +2,12 @@
 
 
 
-## The Power of data visualization 
+## 1-The Power of data visualization 
 
 * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
 * [Gapminder](https://www.gapminder.org/)
 
-### What is data visualization?
+### 1a-What is data visualization?
 
 <!--* Data visualization is the graphical representation of information and data. -->
 * By using visual elements like charts, graphs, and maps, data **visualization tools** provide an accessible way to see and understand trends, outliers, and patterns in data.
@@ -28,7 +28,7 @@
     * 13 -[r/DataIsUgly](https://www.reddit.com/r/dataisugly/)
 
 
-### Why data visualization matters?
+### 1b-Why data visualization matters?
 
 ![WDVM](https://user-images.githubusercontent.com/27078712/72880236-11d3b380-3d31-11ea-82a2-7be5c6087ea2.PNG)
 
@@ -66,11 +66,12 @@ Picture link: https://towardsdatascience.com/the-power-of-visualization-in-data-
      
  * Rules of Thumb : **Edward Tufte Rules**
 
-## Business Intelligence 101 
+## 2-Business Intelligence 101 
 
 * What is Business Intelligence ? 
 * Business Intelligence Vs. Analytics ?
-* Business Intelligence Vs. Big Data ?
+* Business Intelligence Vs. Database Engineer ?
+* Business Intelligence Vs. Big Data ? 
 * Business Intelligence Vs. Data Science ?
 * Business Intelligence Vs. Data Engineering ?
 * Business Intelligence <-> Visualization ? TRUE or FALSE
@@ -84,7 +85,6 @@ Picture link: https://towardsdatascience.com/the-power-of-visualization-in-data-
 Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 * Hands on [~~Tableau~~] Business Intelligence : [CLICK HERE](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
-
 
 
 ## Introduction to Tableau
