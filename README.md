@@ -96,13 +96,13 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
      * Sales KPI ( )
      * Marketing KPI
      * Project Management KPI
- * By Department
  * By Industry
+ * By Department
  * Business Goal 
  * Role-Specific (CEO, CFO, Digital Marketing Manager, etc) 
 
 
-## Introduction to Tableau
+## 4-Introduction to Tableau
 
 * Tableau vs Excel : Googling!
 
@@ -121,7 +121,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 
 
-## Connecting to data
+## 5-Connecting to data
 
 * Live connection :
      * When you have a fast database
@@ -138,7 +138,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 
 
-## Preparing data
+## 6-Preparing data
 
 * Data connections :
 
@@ -168,7 +168,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
      * Change data type for a data field (number, date, string, boolean, etc.) 
      
      
-## Understanding Tableau Concepts 
+## 7-Understanding Tableau Concepts 
  
  * Dimensions and measures
  * Discrete and continuous fields : 
@@ -180,7 +180,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 
 
-## Exploring data
+## 8-Exploring data
  
      
  * Organize data : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
@@ -225,7 +225,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
      * **Tableau Supports 24 Different Charts**
  
  
-## Analyzing data
+## 9-Analyzing data
  
  * Apply filters : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
  
@@ -255,7 +255,15 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
        simple arithmetic)
      * Add a parameter
 
+## 10-Tableau Use Case
 
+### 10a-By Industry
+
+### 10b-By Department
+
+### 10c-By Business Goal
+
+### 10d-By Role Specific
 
 
  
@@ -265,6 +273,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 * 23.01.2020
 * 24.01.2020
+* 11.02.2020
 
 ### References
 * [Tableau](tableau.com)
