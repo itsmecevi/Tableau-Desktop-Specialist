@@ -91,9 +91,9 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 * What is KPI ?
 * Each business and department have different tasks and goals-> ?
 * There are five main types of KPIs: 
-     * Business KPI
-     * Financial KPI
-     * Sales KPI
+     * Business KPI (Relative Market Share, Revenue Growth Rate, Churn Rate)
+     * Financial KPI (Net Profit, Sales Growth, Budget Variance)
+     * Sales KPI ( )
      * Marketing KPI
      * Project Management KPI
  * By Department
