@@ -77,7 +77,7 @@ Picture link: https://towardsdatascience.com/the-power-of-visualization-in-data-
 * Business Intelligence == Visualization ? TRUE or FALSE
 * Business Intelligence -> Visualization ? TRUE or FALSE
 * Business Intelligence <- Visualization ? TRUE or FALSE
-* BI Process :
+* BI Process : Data sources-> ETL1-> Database-> ETL2-> Datawarehouse-> Analytics-> KPI (Key Performance Indicator)
 
 ![biprocess](https://user-images.githubusercontent.com/27078712/72890846-6a14b080-3d45-11ea-9b54-aafa268acd14.jpg)
 
