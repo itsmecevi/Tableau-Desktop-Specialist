@@ -98,6 +98,8 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
      * Project Management KPI
  * By Department
  * By Industry
+ * Business Goal 
+ * Role-Specific (CEO, CFO, Digital Marketing Manager, etc) 
 
 
 ## Introduction to Tableau
