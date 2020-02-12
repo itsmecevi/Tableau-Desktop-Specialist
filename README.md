@@ -54,8 +54,8 @@ Picture link: https://towardsdatascience.com/the-power-of-visualization-in-data-
  * Issues :
  
      * Domain situation 
-     * Data/task abstraction 
-     * Visual encoding/interaction
+     * Data
+     * Visual encoding (D3, Tableau, Power BI, etc)
      * Algorithm
      
  * SOLUTION for the ISSUES :
@@ -63,6 +63,7 @@ Picture link: https://towardsdatascience.com/the-power-of-visualization-in-data-
      * Observational Studies (“Think Aloud”)
      * Expert Interviews (aka Design Critiques)
      * Focus Groups
+     * ALL: BENCHMARKING
      
  * Rules of Thumb : **Edward Tufte Rules**
 
