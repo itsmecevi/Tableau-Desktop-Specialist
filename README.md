@@ -2,7 +2,7 @@
 
 ## 0-What is The MAIN Purpose of Technology ?
 
-## 1-The Power of data visualization 
+## 1-The Power of Data Visualization 
 
 * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
 * [Gapminder](https://www.gapminder.org/)
@@ -94,9 +94,9 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 * There are five main types of KPIs: 
      * Business KPI (Relative Market Share, Revenue Growth Rate, Churn Rate)
      * Financial KPI (Net Profit, Sales Growth, Budget Variance)
-     * Sales KPI ( )
-     * Marketing KPI
-     * Project Management KPI
+     * Sales KPI (Customer Lifetime Value, Lead-to-Sale %, Sales Opportunities)
+     * Marketing KPI (Leads, Cost of Customer Acquisition, Lead-to-Customer Ratio)
+     * Project Management KPI (Time spent, Return on Investment, Planned Budget vs Actual Budget)
  * By Industry
  * By Department
  * Business Goal 
