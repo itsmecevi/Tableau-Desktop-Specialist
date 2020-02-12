@@ -36,12 +36,12 @@
 
      * Data Exploration — find the unknown
      * Data Analysis — check hypotheses
-     * Presentation — communicate and disseminate
+     * Presentation — communicate and disseminate (share function->infographic)
  
  * The Five-Step Model :
  
      * Target
-     * Data Wrangling
+     * Data Preparation
      * Design
      * Implement
      * Evaluate
