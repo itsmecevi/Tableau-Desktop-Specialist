@@ -1,6 +1,6 @@
 # Tableau-Desktop-Specialist
 
-
+## 0-What is The MAIN Purpose of Technology ?
 
 ## 1-The Power of data visualization 
 
