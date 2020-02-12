@@ -270,13 +270,14 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 
  
-## Extras 
+## 11-Extras 
 
 ### Change log update
 
 * 23.01.2020
 * 24.01.2020
 * 11.02.2020
+* 12.02.2020
 
 ### References
 * [Tableau](tableau.com)
