@@ -97,10 +97,12 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
      * Sales KPI (Customer Lifetime Value, Lead-to-Sale %, Sales Opportunities)
      * Marketing KPI (Leads, Cost of Customer Acquisition, Lead-to-Customer Ratio)
      * Project Management KPI (Time spent, Return on Investment, Planned Budget vs Actual Budget)
- * By Industry
- * By Department
- * Business Goal 
- * Role-Specific (CEO, CFO, Digital Marketing Manager, etc) 
+ * https://kpidashboards.com/kpi/department/customer-service/
+     * By Industry 
+     * By Department 
+ * https://www.sisense.com/dashboard-examples/
+     * Business Goal 
+     * Role-Specific (CEO, CFO, Digital Marketing Manager, etc) 
 
 
 ## 4-Introduction to Tableau
