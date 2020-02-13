@@ -1,17 +1,14 @@
 # Tableau-Desktop-Specialist
 
-:metal: 
-
-
 Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
-:mailbox_with_no_mail: Slack Instant Messaging -> [Click Here](https://join.slack.com/t/so-hotworkspace/shared_invite/enQtOTUwOTYyMDEwMjQ2LTQ3M2M4Yjk4MzgyOTk0ZmNjMmNlZTM3N2YzYjdmN2U0OTMxZjljNDA5OGFkYzlhYTQ4ZDBhY2IwZmZjNWU3ODc)
+Slack Instant Messaging -> [Click Here](https://join.slack.com/t/so-hotworkspace/shared_invite/enQtOTUwOTYyMDEwMjQ2LTQ3M2M4Yjk4MzgyOTk0ZmNjMmNlZTM3N2YzYjdmN2U0OTMxZjljNDA5OGFkYzlhYTQ4ZDBhY2IwZmZjNWU3ODc)
 
-:hammer: Project Management tools -> [Trello (Kanban)](https://trello.com/b/Ui4A8cwF/trello-learning-resource)
+Project Management tools -> [Trello (Kanban)](https://trello.com/b/Ui4A8cwF/trello-learning-resource)
 
-## :zero:-What is The MAIN Purpose of Technology ?
+## 0-What is The MAIN Purpose of Technology ?
 
-## :one:-The Power of Data Visualization 
+## 1-The Power of Data Visualization 
 
 * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
 * [Gapminder](https://www.gapminder.org/)
@@ -78,7 +75,7 @@ Picture link: https://towardsdatascience.com/the-power-of-visualization-in-data-
      
  * Rules of Thumb : **Edward Tufte Rules**
 
-## :two:-Business Intelligence 101 
+## 2-Business Intelligence 101 
 
 * What is Business Intelligence ? 
 * Business Intelligence Vs. Analytics ?
@@ -98,7 +95,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 * Hands on [~~Tableau~~] Business Intelligence : [CLICK HERE](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
 
-## :three:-KPI (Key Performance Indicators)
+## 3-KPI (Key Performance Indicators)
 
 * What is KPI ?
 * Each business and department have different tasks and goals-> ?
@@ -116,7 +113,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
      * Role-Specific (CEO, CFO, Digital Marketing Manager, etc) 
 
 
-## :four:-Introduction to Tableau
+## 4-Introduction to Tableau
 
 * Tableau vs Excel : Googling!
 
@@ -135,7 +132,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 
 
-## :five:-Connecting to data
+## 5-Connecting to data
 
 * Live connection :
      * When you have a fast database
@@ -152,7 +149,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 
 
-## :six:-Preparing data
+## 6-Preparing data
 
 * Data connections :
 
@@ -182,7 +179,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
      * Change data type for a data field (number, date, string, boolean, etc.) 
      
      
-## :seven:-Understanding Tableau Concepts 
+## 7-Understanding Tableau Concepts 
  
  * Dimensions and measures
  * Discrete and continuous fields : 
@@ -194,7 +191,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 
 
-## :eight:-Exploring data
+## 8-Exploring data
  
      
  * Organize data : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
@@ -239,7 +236,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
      * **Tableau Supports 24 Different Charts**
  
  
-## :nine:-Analyzing data
+## 9-Analyzing data
  
  * Apply filters : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
  
@@ -269,7 +266,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
        simple arithmetic)
      * Add a parameter
 
-## :ten:-Tableau Use Case
+## 10-Tableau Use Case
 
 ### 10a-By Industry
 
@@ -281,7 +278,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 
  
-## :one::one:-Extras 
+## 11-Extras 
 
 ### Change log update
 
