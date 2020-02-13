@@ -8,7 +8,7 @@
 
 ## 0-What is The MAIN Purpose of Technology ?
 
-## 1-The Power of Data Visualization 
+## :one:-The Power of Data Visualization 
 
 * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
 * [Gapminder](https://www.gapminder.org/)
