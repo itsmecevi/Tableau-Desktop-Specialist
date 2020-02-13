@@ -8,7 +8,7 @@ Project Management tools -> [Trello (Kanban)](https://trello.com/b/Ui4A8cwF/trel
 
 Tableau Public -> [Click Here](https://public.tableau.com/en-us/s/)
 
-## 0-What is The MAIN Purpose of Technology ?
+## 0-What is The MAIN Purpose of the Technology Courses ?
 
 ## 1-The Power of Data Visualization 
 
