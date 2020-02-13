@@ -6,7 +6,7 @@
 
 :hammer: Project Management tools -> [Trello (Kanban)](https://trello.com/b/Ui4A8cwF/trello-learning-resource)
 
-## 0-What is The MAIN Purpose of Technology ?
+## :zero:-What is The MAIN Purpose of Technology ?
 
 ## :one:-The Power of Data Visualization 
 
@@ -73,7 +73,7 @@ Picture link: https://towardsdatascience.com/the-power-of-visualization-in-data-
      
  * Rules of Thumb : **Edward Tufte Rules**
 
-## 2-Business Intelligence 101 
+## :two:-Business Intelligence 101 
 
 * What is Business Intelligence ? 
 * Business Intelligence Vs. Analytics ?
@@ -93,7 +93,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 * Hands on [~~Tableau~~] Business Intelligence : [CLICK HERE](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
 
-## 3-KPI (Key Performance Indicators)
+## :three:-KPI (Key Performance Indicators)
 
 * What is KPI ?
 * Each business and department have different tasks and goals-> ?
@@ -111,7 +111,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
      * Role-Specific (CEO, CFO, Digital Marketing Manager, etc) 
 
 
-## 4-Introduction to Tableau
+## :four:-Introduction to Tableau
 
 * Tableau vs Excel : Googling!
 
@@ -130,7 +130,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 
 
-## 5-Connecting to data
+## :five:-Connecting to data
 
 * Live connection :
      * When you have a fast database
@@ -147,7 +147,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 
 
-## 6-Preparing data
+## :six:-Preparing data
 
 * Data connections :
 
@@ -177,7 +177,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
      * Change data type for a data field (number, date, string, boolean, etc.) 
      
      
-## 7-Understanding Tableau Concepts 
+## :seven:-Understanding Tableau Concepts 
  
  * Dimensions and measures
  * Discrete and continuous fields : 
@@ -189,7 +189,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 
 
-## 8-Exploring data
+## :eight:-Exploring data
  
      
  * Organize data : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
@@ -234,7 +234,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
      * **Tableau Supports 24 Different Charts**
  
  
-## 9-Analyzing data
+## :nine:-Analyzing data
  
  * Apply filters : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
  
@@ -264,7 +264,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
        simple arithmetic)
      * Add a parameter
 
-## 10-Tableau Use Case
+## :ten:-Tableau Use Case
 
 ### 10a-By Industry
 
@@ -276,7 +276,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 
 
  
-## 11-Extras 
+## :one::one:-Extras 
 
 ### Change log update
 
@@ -284,6 +284,7 @@ Picture link: https://www.fingent.com/blog/business-intelligence-101
 * 24.01.2020
 * 11.02.2020
 * 12.02.2020
+* 13.02.2020
 
 ### References
 * [Tableau](tableau.com)
