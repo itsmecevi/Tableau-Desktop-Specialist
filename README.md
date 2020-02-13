@@ -1,7 +1,9 @@
 # Tableau-Desktop-Specialist
 
 Cevi Herdian -> itsmecevi.github.io
+
 Slack Instant Messaging -> [Click Here](https://join.slack.com/t/so-hotworkspace/shared_invite/enQtOTUwOTYyMDEwMjQ2LTQ3M2M4Yjk4MzgyOTk0ZmNjMmNlZTM3N2YzYjdmN2U0OTMxZjljNDA5OGFkYzlhYTQ4ZDBhY2IwZmZjNWU3ODc)
+
 Project Management tools -> Trello (Kanban) 
 
 ## 0-What is The MAIN Purpose of Technology ?
