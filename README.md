@@ -71,6 +71,8 @@ Picture link: https://towardsdatascience.com/the-power-of-visualization-in-data-
      * Focus Groups
      * ALL: BENCHMARKING
      
+ * [Visual References](https://github.com/itsmecevi/visualreferences/blob/master/VisualReferences-SQLBI.pdf)
+     
  * Rules of Thumb : **Edward Tufte Rules**
 
 ## :two:-Business Intelligence 101 
