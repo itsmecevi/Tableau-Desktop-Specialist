@@ -6,6 +6,8 @@ Slack Instant Messaging -> [Click Here](https://join.slack.com/t/so-hotworkspace
 
 Project Management tools -> [Trello (Kanban)](https://trello.com/b/Ui4A8cwF/trello-learning-resource)
 
+Tableau Public -> [Click Here](https://public.tableau.com/en-us/s/)
+
 ## 0-What is The MAIN Purpose of Technology ?
 
 ## 1-The Power of Data Visualization 
