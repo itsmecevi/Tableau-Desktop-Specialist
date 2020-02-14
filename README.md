@@ -1,8 +1,8 @@
 # Tableau-Desktop-Specialist
 
-Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
+&#128540 Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
-<p style="font-size:100px">&#128540;</p>
+
 
 Slack Instant Messaging -> [Click Here](https://join.slack.com/t/so-hotworkspace/shared_invite/enQtOTUwOTYyMDEwMjQ2LTQ3M2M4Yjk4MzgyOTk0ZmNjMmNlZTM3N2YzYjdmN2U0OTMxZjljNDA5OGFkYzlhYTQ4ZDBhY2IwZmZjNWU3ODc)
 
