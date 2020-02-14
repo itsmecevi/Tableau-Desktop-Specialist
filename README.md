@@ -77,7 +77,7 @@ Picture link: https://bit.ly/3byKYeD
      
  * Rules of Thumb : **Edward Tufte Rules**
 
-## 2-Business Intelligence 101 
+## 2️⃣-Business Intelligence 101 
 
 * What is Business Intelligence ? 
 * Business Intelligence Vs. Analytics ?
