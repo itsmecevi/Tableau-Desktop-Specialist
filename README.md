@@ -10,7 +10,7 @@
 
 ## 0-What is The MAIN Purpose of the Technology Courses ?
 
-## 1-The Power of Data Visualization 
+## 1️⃣-The Power of Data Visualization 
 
 * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
 * [Gapminder](https://www.gapminder.org/)
