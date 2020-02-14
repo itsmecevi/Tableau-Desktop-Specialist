@@ -1,7 +1,8 @@
 # Tableau-Desktop-Specialist
 
 <p>I will display &#1F6E0;</p> Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
-
+<p style="font-size:100px">&#129409;</p>
+<span style='font-size:100px;'>&#127806;</span>
 Slack Instant Messaging -> [Click Here](https://join.slack.com/t/so-hotworkspace/shared_invite/enQtOTUwOTYyMDEwMjQ2LTQ3M2M4Yjk4MzgyOTk0ZmNjMmNlZTM3N2YzYjdmN2U0OTMxZjljNDA5OGFkYzlhYTQ4ZDBhY2IwZmZjNWU3ODc)
 
 Tableau Public -> [Click Here](https://public.tableau.com/en-us/s/)
