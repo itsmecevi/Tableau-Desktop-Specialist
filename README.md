@@ -2,9 +2,9 @@
 
 
 
-<p>&#129311;</p>Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
+<span>&#129311;</span>Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
-<span>&#9993</span>Slack Instant Messaging -> [Click Here](https://join.slack.com/t/so-hotworkspace/shared_invite/enQtOTUwOTYyMDEwMjQ2LTQ3M2M4Yjk4MzgyOTk0ZmNjMmNlZTM3N2YzYjdmN2U0OTMxZjljNDA5OGFkYzlhYTQ4ZDBhY2IwZmZjNWU3ODc)
+<span>&#9993;</span>Slack Instant Messaging -> [Click Here](https://join.slack.com/t/so-hotworkspace/shared_invite/enQtOTUwOTYyMDEwMjQ2LTQ3M2M4Yjk4MzgyOTk0ZmNjMmNlZTM3N2YzYjdmN2U0OTMxZjljNDA5OGFkYzlhYTQ4ZDBhY2IwZmZjNWU3ODc)
 
 <span>&#128202</span>Tableau Public -> [Click Here](https://public.tableau.com/en-us/s/)
 
