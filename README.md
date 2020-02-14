@@ -8,7 +8,7 @@
 
 <span>&#128190;</span>Tableau Public -> [Click Here](https://public.tableau.com/en-us/s/)
 
-## 0-What is The MAIN Purpose of the Technology Courses ?
+## 0️⃣-What is The MAIN Purpose of the Technology Courses ?
 
 ## 1️⃣-The Power of Data Visualization 
 
@@ -97,7 +97,7 @@ Picture link: https://bit.ly/2HmzMnz
 
 * Hands on [~~Tableau~~] Business Intelligence : [CLICK HERE](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
 
-## 3-KPI (Key Performance Indicators)
+## 3️⃣-KPI (Key Performance Indicators)
 
 * What is KPI ?
 * Each business and department have different tasks and goals-> ?
@@ -115,7 +115,7 @@ Picture link: https://bit.ly/2HmzMnz
      * Role-Specific (CEO, CFO, Digital Marketing Manager, etc) 
 
 
-## 4-Introduction to Tableau
+## 4️⃣-Introduction to Tableau
 
 * Tableau vs Excel : Googling!
 
@@ -134,7 +134,7 @@ Picture link: https://bit.ly/2HmzMnz
 
 
 
-## 5-Connecting to data
+## 5️⃣-Connecting to data
 
 * Live connection :
      * When you have a fast database
@@ -151,7 +151,7 @@ Picture link: https://bit.ly/2HmzMnz
 
 
 
-## 6-Preparing data
+## 6️⃣-Preparing data
 
 * Data connections :
 
@@ -181,7 +181,7 @@ Picture link: https://bit.ly/2HmzMnz
      * Change data type for a data field (number, date, string, boolean, etc.) 
      
      
-## 7-Understanding Tableau Concepts 
+## 7️⃣-Understanding Tableau Concepts 
  
  * Dimensions and measures
  * Discrete and continuous fields : 
@@ -193,7 +193,7 @@ Picture link: https://bit.ly/2HmzMnz
 
 
 
-## 8-Exploring data
+## 8️⃣-Exploring data
  
      
  * Organize data : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
@@ -238,7 +238,7 @@ Picture link: https://bit.ly/2HmzMnz
      * **Tableau Supports 24 Different Charts**
  
  
-## 9-Analyzing data
+## 9️⃣-Analyzing data
  
  * Apply filters : [Data: Global Superstore](https://github.com/itsmecevi/global-superstore/blob/master/Global%20Superstore.xlsx)
  
@@ -268,7 +268,7 @@ Picture link: https://bit.ly/2HmzMnz
        simple arithmetic)
      * Add a parameter
 
-## 10-Tableau Use Case
+## 🔟-Tableau Use Case
 
 ### 10a-By Industry
 
@@ -280,7 +280,7 @@ Picture link: https://bit.ly/2HmzMnz
 
 
  
-## 11-Extras 
+## 1️⃣0️⃣-Extras 
 
 ### Change log update
 
