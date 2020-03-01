@@ -58,7 +58,7 @@
   
 ![5stepdesign](https://user-images.githubusercontent.com/27078712/72888440-266b7800-3d40-11ea-8668-db66477a76fb.png)
 
-Picture link: https://bit.ly/3byKYeD
+Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
 
      
  * Issues :
