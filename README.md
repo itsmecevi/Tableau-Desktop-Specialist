@@ -20,7 +20,7 @@
 ### 1a-What is Data Visualization?
 
 <!--* Data visualization is the graphical representation of information and data. -->
-* By using visual elements like charts, graphs, and maps, data **visualization tools** provide an accessible way to see and understand trends, outliers, and patterns in data.
+* By using visual elements like **charts**, **graphs**, and **maps**, data **visualization tools** provide an accessible way to see and understand trends, outliers, and patterns in data.
 * The best data visualization blogs, site, and news to follow
 
     * 1 -[Storytelling with Data](http://www.storytellingwithdata.com/)
