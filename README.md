@@ -115,6 +115,8 @@ Picture link: https://bit.ly/2HmzMnz
  * [Example of Use Case](https://www.sisense.com/dashboard-examples/)
      * Business Goal 
      * Role-Specific (CEO, CFO, Digital Marketing Manager, etc) 
+ * **Data Science Steps **
+ * **Crisp-Dm method**
 
 
 ## 4️⃣-Introduction to Tableau
