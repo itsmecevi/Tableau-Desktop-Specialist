@@ -109,10 +109,10 @@ Picture link: https://bit.ly/2HmzMnz
      * Sales KPI (Customer Lifetime Value, Lead-to-Sale %, Sales Opportunities)
      * Marketing KPI (Leads, Cost of Customer Acquisition, Lead-to-Customer Ratio)
      * Project Management KPI (Time spent, Return on Investment, Planned Budget vs Actual Budget)
- * https://kpidashboards.com/kpi/department/customer-service/
+ * [Example of Use Case](https://kpidashboards.com/kpi/department/customer-service/)
      * By Industry 
      * By Department 
- * https://www.sisense.com/dashboard-examples/
+ * [Example of Use Case](https://www.sisense.com/dashboard-examples/)
      * Business Goal 
      * Role-Specific (CEO, CFO, Digital Marketing Manager, etc) 
 
