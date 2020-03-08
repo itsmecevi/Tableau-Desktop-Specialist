@@ -151,6 +151,8 @@ Picture link: https://bit.ly/2HmzMnz
 * Connecting to CSV file : [Data-> Insurance Portfolio ](https://support.spatialkey.com/spatialkey-sample-csv-data/)
 * Connecting to Google Sheets : [Data Google Sheets](https://docs.google.com/spreadsheets/d/1wtyaUAeN2ztSfAo8SK0FtZ0n85K0YBPo_ZcH6Hy54Nw/edit#gid=0)
 * Connecting to PDFs : [Data-> Amazon Stock Prices](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
+* Connecting to Web Data Connectors : [What is that](https://tableau.github.io/webdataconnector/) & [Web Data Connectors Sample]
+* Connecting to Spatial File : [Sample Spatial Data (https://github.com/maczokni/crimeMapTest/blob/master/London_Borough_Excluding_MHW.shp)
 * **50+ different data sources**
 
 
